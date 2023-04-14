@@ -7,7 +7,9 @@
 body {
     width: 97vh;
     display: absolute;
+    margin: auto;
     font-family: 'Sriracha', cursive;
+    
 }
 
 header {
@@ -31,10 +33,8 @@ header > h1 {
 
 p {
     width: 39%;
-    padding-left: 15px;
+    margin-left: 40px;
     font-size: 1.6em;
-    text-align: left;
-    
 }
 
 .caixa{
